@@ -1,7 +1,18 @@
 # How To Troubleshoot
-![image](https://github.com/0xbythesecond/HowToTroubleshoot/assets/23303634/98505d88-f432-46f1-aa9d-9e7597c235a0)
 
-The following steps represent the troubleshooting methods when assessing a technical issue.
+<p align="center">
+<img  width="750" alt="Troubleshooting Image" src=https://github.com/0xbythesecond/HowToTroubleshoot/assets/23303634/98505d88-f432-46f1-aa9d-9e7597c235a0/>
+</p>
+
+The following steps represent the troubleshooting methods when assessing a technical issue:
+
+- Step 1 - [Identify the Problem ](https://github.com/0xbythesecond/HowToTroubleshoot/edit/main/README.md#step-1-identify-the-problem)
+- Step 2 - [Establish a Theory](https://github.com/0xbythesecond/HowToTroubleshoot/edit/main/README.md#step-2-establish-a-theory)
+- Step 3 - [Test the Theory](https://github.com/0xbythesecond/HowToTroubleshoot/edit/main/README.md#step-3-test-the-theory)
+- Step 4 - [Establish a Plan of Action](https://github.com/0xbythesecond/HowToTroubleshoot/edit/main/README.md#step-4-establish-a-plan-of-action)
+- Step 5 - [Implement the Plan](https://github.com/0xbythesecond/HowToTroubleshoot/edit/main/README.md#step-5-implement-the-plan)
+- Step 6 - [Verify Full System Functionality](https://github.com/0xbythesecond/HowToTroubleshoot/edit/main/README.md#step-6-verify-full-system-functionality)
+- Step 7 - [Document Findings](https://github.com/0xbythesecond/HowToTroubleshoot/edit/main/README.md#step-7-document-findings)
 
 <details>
 <summary>
