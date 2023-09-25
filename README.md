@@ -14,6 +14,8 @@ The following steps represent the troubleshooting methods when assessing a techn
 - Step 6 - [Verify Full System Functionality](https://github.com/0xbythesecond/HowToTroubleshoot/edit/main/README.md#step-6-verify-full-system-functionality)
 - Step 7 - [Document Findings](https://github.com/0xbythesecond/HowToTroubleshoot/edit/main/README.md#step-7-document-findings)
 
+#
+
 <details>
 <summary>
   
